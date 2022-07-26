@@ -1,0 +1,12 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+    background-color: rgb(93, 83, 83);
+    color: white;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+}
